@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 .hackeros_user
 *.vbs
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
