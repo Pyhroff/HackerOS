@@ -1,6 +1,17 @@
 # HackerOS Aesthetic Pack
 
+![CI](https://github.com/Pyhroff/HackerOS/actions/workflows/ci.yml/badge.svg)
+
+
 Turns your Windows 11 laptop into something out of a hacker movie. Green terminals, dramatic lock screens, live hex dump screensaver. All visual — nothing actually dangerous.
+
+
+## Demo
+
+> _Screenshots / GIF go here._ Capture the hex-dump screensaver and lock overlay
+> in action and drop them in a `screenshots/` folder, e.g.:
+>
+> `![Hex Stream](screenshots/hex_stream.png)`
 
 ## Features
 
