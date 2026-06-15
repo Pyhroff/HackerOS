@@ -30,7 +30,7 @@ DKRED  = "#AA0000"
 YELLOW = "#CCCC00"
 MONO   = "Courier New"
 
-HOST = "LENOVO"
+HOST = "WORKSTATION"
 
 def _ts():
     n = datetime.now()
